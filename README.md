@@ -1,7 +1,3 @@
-Here's an updated version with different symbols and heading styles:  
-
----
-
 # 🧠 **QuizApp**  
 
 **QuizApp** is a sleek and interactive ReactJS web application that offers an engaging platform for solving multiple-choice quizzes. With real-time scoring, smooth navigation, and an intuitive interface, QuizApp delivers a delightful experience for users of all ages.  
